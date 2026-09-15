@@ -8,7 +8,7 @@ This project translates computational neuroscience research conducted during the
 
 ## Live Demo
 Explore the interactive network graph directly in your browser:  
-👉 **[View Interactive Interactome](https://YOUR_GITHUB_USERNAME.github.io/disc1-interactome-pipeline/)**
+👉 **[View Interactive Interactome](https://Joesiyuh.github.io/disc1-interactome-pipeline/)**
 
 ---
 
